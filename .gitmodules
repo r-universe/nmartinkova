@@ -7,4 +7,4 @@
 	url = https://github.com/cran/diemr
 [submodule "fuzzyreg"]
 	path = fuzzyreg
-	url = https://github.com/cran/fuzzyreg
+	url = https://github.com/nmartinkova/fuzzyreg
