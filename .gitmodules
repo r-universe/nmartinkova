@@ -5,6 +5,3 @@
 [submodule "diemr"]
 	path = diemr
 	url = https://github.com/cran/diemr
-[submodule "fuzzyreg"]
-	path = fuzzyreg
-	url = https://github.com/nmartinkova/fuzzyreg
