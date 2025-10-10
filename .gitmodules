@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "diemr"]
 	path = diemr
-	url = https://github.com/cran/diemr
+	url = https://github.com/nmartinkova/diemr
